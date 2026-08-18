@@ -11,3 +11,5 @@ swappy
 swaync
 waybar
 wlogout
+blueman
+nm-applet

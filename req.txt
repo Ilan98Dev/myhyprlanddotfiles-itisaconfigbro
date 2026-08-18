@@ -1,0 +1,13 @@
+fuzzel
+hyprland
+hypalock
+hypridle
+nautilus
+awww
+kitty
+matugen
+nvim
+swappy
+swaync
+waybar
+wlogout

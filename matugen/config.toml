@@ -6,16 +6,16 @@ input_path = '~/.config/matugen/templates/colors.json'
 output_path = '~/.local/state/quickshell/user/generated/colors.json'
 
 [templates.hyprland]
-input_path = '~/.config/matugen/templates/hyprland/colors.conf'
-output_path = '~/.config/hypr/itisaconfigbro/colors.conf'
+input_path = '~/.config/matugen/templates/hyprland/colors.lua'
+output_path = '~/.config/hypr/itisaconfigbro/colors.lua'
 
 [templates.hyprlock]
 input_path = '~/.config/matugen/templates/hyprland/hyprlock-colors.conf'
 output_path = '~/.config/hypr/itisaconfigbro/hyprlock/colors.conf'
 
 [templates.fuzzel]
-input_path = '~/.config/matugen/templates/fuzzel/fuzzel_theme.ini'
-output_path = '~/.config/fuzzel/fuzzel_theme.ini'
+input_path = '~/.config/matugen/templates/fuzzel/fuzzel.ini'
+output_path = '~/.config/fuzzel/fuzzel.ini'
 
 [templates.gtk3]
 input_path = '~/.config/matugen/templates/gtk-3.0/gtk.css'

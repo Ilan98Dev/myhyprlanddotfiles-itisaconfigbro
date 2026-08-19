@@ -1,6 +1,6 @@
 fuzzel
 hyprland
-hypalock
+hyprlock
 hypridle
 nautilus
 awww
@@ -13,3 +13,7 @@ waybar
 wlogout
 blueman
 nm-applet
+gnome-keyring
+gnome-keyring-pam
+libsecret
+seahorse

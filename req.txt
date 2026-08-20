@@ -17,3 +17,4 @@ gnome-keyring
 gnome-keyring-pam
 libsecret
 seahorse
+pavucontrol
